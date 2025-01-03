@@ -23,8 +23,14 @@ To access these books, you can visit the [University of Alberta Library website]
 
 - [Computational Architecture and FPGAs – University of Auckland](https://youtu.be/V4NZ6tcmqOs?si=4WkCg9f0nGZvwMUy)  
   *This lecture delves deep into modern FPGA architecture and state-of-the-art compute-in-memory techniques and applications.*
+- [The Design Decisions behind the first Open-Everything FABulous FPGA](https://youtu.be/3Lll9_-gYGg?si=95WjHGRySwZV0p9E)
+  *The FABulous FPGA showcases how complex chips can be designed and programmed entirely using open-source tools, IPs, and process design kits (PDKs). This project highlights the power of open silicon and serves as a robust example of innovation without reliance on industry tools.*
 
 ## VHDL Model Implementations
 
 The repository below contains VHDL model implementations to accompany the [ECE VHDL Essentials Playlist](https://youtube.com/playlist?list=PLwlzjyNqNi-ZOI9f2Ps2bpxEV8C9sEoMm&si=fxvw5KdRblF57RSD) and help you get started with your projects:  
 [GitHub Repository: VHDL Essentials](https://github.com/UofA-ECE/VHDL_Essentials)
+
+## GitHub Repositories
+
+[open_eFPGA_v2](https://github.com/FPGA-Research/open_eFPGA_v2)
